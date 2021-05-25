@@ -1,0 +1,96 @@
+.logo{
+	
+	border-style: solid;
+	background-color:green;
+	height:150px;
+	
+}
+
+.details{
+	
+	Font-size:20px;
+	
+}
+
+.banner{
+	
+	background-image:url('../photos/banner.jpg');
+	height:400px;
+	background-repeat:no-repeat;
+    margin-top:5px;
+    background-size:cover;
+    color:white;
+	font-size:30px;
+	font-style: Italic;
+}
+
+.about_content{
+	
+		Font-size:20px;
+}
+
+*{
+	
+	 box-sizing:border-box;
+	 
+}
+
+.cname{
+	
+	background-color:#6666ff;
+	height:150px;
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top:55px;
+	
+}
+
+.menu{
+	
+	/*border-style:solid;*/
+	
+	background-color:black;
+	height:50px;
+	text-align:center;
+	padding-top:18px;
+	margin-top:3px;
+
+}
+
+.menu a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+
+.about{
+	
+		background-color:black;
+	    height:50px;
+		color:white;
+		text-align:center;
+		padding-top:18px;
+		margin-top:5px;
+		box-shadow:0px 0px 5px #B2B1AF;		
+}		
+
+p{
+	text-align:justify;
+	
+}
+
+.section{
+	
+	background-color:green;	
+	color:white;
+	text-align:center;
+	padding-top:18px;
+	margin-top:5px;
+	box-shadow:0px 0px 5px #B2B1AF;
+	
+}
+
+.IMS{
+	font-size:18px;
+}

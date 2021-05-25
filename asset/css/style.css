@@ -1,0 +1,71 @@
+*{
+	
+	 box-sizing:border-box;
+	 
+}
+
+.cname{
+	
+	background-color:#FFC300;
+	height:150px;
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top:55px;
+	
+}
+
+.menu{
+	
+	/*border-style:solid;*/
+	
+	background-color:black;
+	height:50px;
+	text-align:center;
+	padding-top:18px;
+
+}
+
+.menu a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+
+.banner{
+	
+	background-image:url('../photos/flower.jpg');
+	height:500px;
+	background-repeat:no-repeat;
+    margin-top:3px;
+    background-size:cover;	
+	background-attachment:fixed;	
+}
+
+.about{
+	
+		background-color:black;
+	    height:50px;
+		color:white;
+		text-align:center;
+		padding-top:18px;
+		margin-top:5px;
+		box-shadow:0px 0px 5px #B2B1AF;		
+}		
+
+p{
+	text-align:justify;
+	
+}
+
+.section{
+	
+	background-color:green;
+	
+	color:white;
+	text-align:center;
+	padding-top:18px;
+	margin-top:5px;
+	box-shadow:0px 0px 5px #B2B1AF;
+	
+}
